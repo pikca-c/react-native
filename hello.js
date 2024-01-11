@@ -9,6 +9,7 @@ const Hello = (props) => {
     </div>
     )
 }
+
 /*class Hello extends Component {
     render() {
         return(
